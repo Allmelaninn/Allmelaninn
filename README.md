@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keyanna White
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Keyanna
 ===================================================================================================================================
 
-Experienced Cybersecurity 
+Experienced Cybersecurity Analyst
 -------------------------------------------
 
 As a Cybersecurity Analyst at CyberAI innovation, I've combined my deep-rooted expertise in healthcare with advanced cybersecurity techniques to safeguard critical and sensitive data in the face of ever-escalating cyber threats. Armed with a (ISC)² Certified in Cybersecurity credential and a CCMA degree from Kaplan University, I stand at the confluence of healthcare and technology, uniquely poised to address vulnerabilities and threats specific to healthcare IT.
